@@ -1,0 +1,26 @@
+
+
+.random-pro{
+  display:flex;
+  gap: 10%;
+  margin-left: 0px;
+}
+.random{
+  display :flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: #e42645;
+}
